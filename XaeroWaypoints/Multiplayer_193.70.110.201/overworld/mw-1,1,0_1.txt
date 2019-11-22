@@ -1,0 +1,5 @@
+waypoint:Volcano:V:4241:74:-468:4:true:0:gui.xaero_default:false:0
+waypoint:Home:H:3580:67:-719:14:false:0:gui.xaero_default:false:0
+waypoint:Quary:Q:4013:60:-894:7:true:0:gui.xaero_default:false:0
+waypoint:national grid:N:3410:64:-1327:11:false:0:gui.xaero_default:false:0
+waypoint:gui.xaero_deathpoint:D:3586:67:-729:0:false:1:gui.xaero_default:false:0
